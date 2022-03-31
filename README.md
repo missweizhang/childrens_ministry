@@ -1,4 +1,4 @@
-# Contents
+# 儿童事工资源
 * [Policies and Procedures](#policies-and-procedures)
   * [Volunteer Training](#volunteer-training)
   * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
