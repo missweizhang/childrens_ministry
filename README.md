@@ -339,7 +339,7 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   Pilgrim's Progress in Today's English  <br/>
   https://www.christianbook.com/pilgrims-progress-in-todays-english/9780802465207/pd/ 
   
-  The Chronicles of Narnia by C.S. Lewis
+  The Chronicles of Narnia by C.S. Lewis <br/>
   https://www.christianbook.com/the-chronicles-narnia-volume-slipcased-softcover/c-s-lewis/9780064471190/pd/44280
 
 ## Music
