@@ -21,6 +21,12 @@
 
 # Policies and Procedures
 
+(2021 Dec 21). *AB 506 Imposes New Mandatory Responsibilities on Churches* <br/>
+https://csbc.com/resource/ab506/
+
+*Background Check Process* (choose C. Youth Organization) <br/>
+https://www.cdss.ca.gov/inforesources/community-care/caregiver-background-check/background-check-process
+
 *7 Essential Policies for Children's Ministry… And a Free Checklist* <br/>
 https://gospelcenteredfamily.com/blog/7-things-to-include-in-a-policy-checklist-for-childrens-ministry
 
@@ -32,13 +38,6 @@ https://gospelcenteredfamily.com/blog/7-things-to-include-in-a-policy-checklist-
 * No photography rule
 * Volunteer screening and training
 
-
-(2021 Dec 21). *AB 506 Imposes New Mandatory Responsibilities on Churches* <br/>
-https://csbc.com/resource/ab506/
-
-
-*Background Check Process* (choose C. Youth Organization) <br/>
-https://www.cdss.ca.gov/inforesources/community-care/caregiver-background-check/background-check-process
 
 ## Examples
 *Sample Checklist of General Policies and Procedures by Gospel Centered Family* <br/>
@@ -188,7 +187,6 @@ https://www.ustiendao.net/shepherding-a-childs-heart-1/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=shepherding+a+child
 
 *養兒育女父母心：從天父的話語和榜樣學習如何為人父母* 詹寶桂著 <br/>
-https://drive.google.com/file/d/17aVUfsMKEIUSV8uZwjEMeCGOdEEnzJaa/view?usp=sharing
 
 *儿童爱之语 The Five Love Languages of Children* by Gary Chapman <br/>
 http://cclw.net/coach/etazy/index.html <br/>
@@ -381,6 +379,8 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   * Exploring Creation with Zoology 3: Land Animals of the Sixth Day
 
 ### Science and Faith
+I have not reviewed the resources in this section:
+
   The Case for a Creator for Kids, Updated and Expanded by Lee Strobel  <br/>
   https://www.christianbook.com/case-creator-kids-updated-and-expanded/lee-strobel/9780310719922/pd/719922
 
