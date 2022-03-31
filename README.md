@@ -167,7 +167,7 @@ Mothers in Prayer International <br/>
 https://youtu.be/6Y_CbHBGllk <br/>
 https://momsinprayer.org/resources/language-resources/chinese/
 
-*如何为你的孩子祷告 The Power of a Praying Parent * by Stormie Omartian <br/>
+*如何为你的孩子祷告 The Power of a Praying Parent* by Stormie Omartian <br/>
 http://cclw.net/coach/PrayForChild/htm/main.html <br/>
 https://www.christianbook.com/the-power-of-a-praying-parent/stormie-omartian/9780736957670/pd/957670
 
@@ -182,7 +182,7 @@ James Dobson Family Talk <br/>
 https://www.drjamesdobson.org/
 
 ## Parenting Books
-子女心，父母情：牧养孩子的心 Shepherding a Child's Heart by Tedd Tripp <br/>
+*子女心，父母情：牧养孩子的心 Shepherding a Child's Heart* by Tedd Tripp <br/>
 https://baojiayin.com/product/6117/ <br/>
 https://www.ustiendao.net/shepherding-a-childs-heart-1/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=shepherding+a+child
@@ -190,31 +190,31 @@ https://www.christianbook.com/Christian/Books/easy_find?Ntt=shepherding+a+child
 *養兒育女父母心：從天父的話語和榜樣學習如何為人父母* 詹寶桂著 <br/>
 https://drive.google.com/file/d/17aVUfsMKEIUSV8uZwjEMeCGOdEEnzJaa/view?usp=sharing
 
-儿童爱之语 The Five Love Languages of Children by Gary Chapman <br/>
+*儿童爱之语 The Five Love Languages of Children* by Gary Chapman <br/>
 http://cclw.net/coach/etazy/index.html <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=five+love+languages+of+children
 
-为孩子立界线——帮助孩子管理自己的生活 Boundaries with Kids: How Healthy Choices Grow Healthy Children by Dr. Henry Cloud, Dr. John Townsend <br/>
+*为孩子立界线——帮助孩子管理自己的生活 Boundaries with Kids: How Healthy Choices Grow Healthy Children* by Dr. Henry Cloud, Dr. John Townsend <br/>
 https://baojiayin.com/product/1092/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=boundaries+with+kids
 
-勇于管教 The New Dare to Discipline: Answers to Your Toughest Parenting Questions by Dr. James Dobson  <br/>
+*勇于管教 The New Dare to Discipline: Answers to Your Toughest Parenting Questions* by Dr. James Dobson  <br/>
 https://baojiayin.com/product/2404/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=dare+to+discipline
 
-培育男孩——塑造下一代男人 Bringing Up Boys: Shaping the Next Generation of Men by Dr. James Dobson <br/>
+*培育男孩——塑造下一代男人 Bringing Up Boys: Shaping the Next Generation of Men* by Dr. James Dobson <br/>
 https://baojiayin.com/product/1077/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=bringing+up+boys
 
-培育女孩：滋养下一代女人 Bringing Up Girls: Practical Advice and Encouragement for Those Shaping the Next Generation of Women by Dr. James Dobson <br/>
+*培育女孩：滋养下一代女人 Bringing Up Girls: Practical Advice and Encouragement for Those Shaping the Next Generation of Women* by Dr. James Dobson <br/>
 https://baojiayin.com/product/6453/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=bringing+up+girls
 
-敬虔的丈夫：做合他心意的带领者 The Exemplary Husband by Stuart Scott <br/>
+*敬虔的丈夫：做合他心意的带领者 The Exemplary Husband* by Stuart Scott <br/>
 https://baojiayin.com/product/6639/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=exemplary+husband
 
-贤德的妻子：做合他心意的帮助者 The Excellent Wife by Martha Peace <br/>
+*贤德的妻子：做合他心意的帮助者 The Excellent Wife* by Martha Peace <br/>
 https://baojiayin.com/product/6640/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=excellent+wife
 
@@ -226,12 +226,16 @@ https://www.christianbook.com/Christian/Books/easy_find?Ntt=excellent+wife
   https://support.google.com/youtube/answer/174084 <br/>
   https://support.google.com/youtube/answer/174084?hl=zh-Hans
   
+### Android  
   Family Link <br/>
   https://families.google.com/familylink/
   
   AppLock <br/>
   https://play.google.com/store/apps/details?id=com.domobile.applockwatcher
   
+### iOS
+  Content & Privacy Restrictions <br/>
+  https://support.apple.com/en-us/HT201304
 
 # Children's Books and Bookstores
 
@@ -270,7 +274,8 @@ https://amotherfarfromhome.com/best-christian-parenting-books/
   *Really Woolly* Series Boardbooks <br/>
   https://www.christianbook.com/Christian/Books/easy_find?Ntt=really+woolly
   
-  **
+  *The Purpose Driven Life Devotional for Kids* by Rick Warren
+  https://www.christianbook.com/purpose-driven-life-devotional-for-kids/rick-warren/9780310750468/pd/750468
 
   *A Young Man's Guide to Making Right Choices* by Jim George <br/>
   *A Young Man's Guide to Discovering His Bible*  by Jim George <br/>
@@ -382,12 +387,6 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   Faith and Science with Dr. Fizzlebop: 52 Fizztastically Fun Experiments and Devotions for Families by Brock Eastman  <br/>
   https://www.christianbook.com/science-fizzlebop-fizztastically-experiments-devotions-families/brock-eastman/9781496458162/pd/458165
 
-  How Great Is Our God: 100 Indescribable Devotions About God and Science by Louie Giglio, Tama Fortner  <br/>
-  https://www.christianbook.com/great-indescribable-devotions-about-and-science/louie-giglio/9781400215522/pd/215528
-
-  The Wonder of Creation: 100 More Devotions About God and Science by Louie Giglio  <br/>
-  https://www.christianbook.com/wonder-creation-more-devotions-about-science/louie-giglio/9781400230464/pd/230468
-
   Answers for Kids  <br/>
   http://smile.amazon.com/Answers-Kids-Box-Set-Book/dp/1683441338/
 
@@ -396,6 +395,12 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
   Answers in Genesis  <br/>
   http://christianbook.com/page/homeschool/answers-in-genesis/aig-dvds?event=Homeschool|1001898
+
+  How Great Is Our God: 100 Indescribable Devotions About God and Science by Louie Giglio, Tama Fortner  <br/>
+  https://www.christianbook.com/great-indescribable-devotions-about-and-science/louie-giglio/9781400215522/pd/215528
+
+  The Wonder of Creation: 100 More Devotions About God and Science by Louie Giglio  <br/>
+  https://www.christianbook.com/wonder-creation-more-devotions-about-science/louie-giglio/9781400230464/pd/230468
 
   Censored Science: The Suppressed Evidence by Bruce Malone  <br/>
   http://christianbook.com/censored-science-the-suppressed-evidence/bruce-malone/9780971591158/pd/591158
