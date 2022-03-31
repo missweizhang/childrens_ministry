@@ -8,7 +8,7 @@
   * [Sunday School Curriculum](#sunday-school-curriculum)
 * [Parenting Resources](#parenting-resources)
   * [Parental Control](#parental-control)
-* [Books and Bookstores](#books-and-bookstores)
+* [Books and Bookstores](#childrens-books-and-bookstores)
   * [Bible Stories](#bible-stories)
   * [Bookstores](#bookstores)
 * [Learning Resources](#learning-resources)
