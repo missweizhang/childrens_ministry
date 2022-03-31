@@ -268,6 +268,8 @@ https://amotherfarfromhome.com/best-christian-parenting-books/
   
   *Really Woolly* Series Boardbooks <br/>
   https://www.christianbook.com/Christian/Books/easy_find?Ntt=really+woolly
+  
+  **
 
   *A Young Man's Guide to Making Right Choices* by Jim George <br/>
   *A Young Man's Guide to Discovering His Bible*  by Jim George <br/>
@@ -327,10 +329,10 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 ## Reading
 
   *Abeka Reading*  <br/>
-  https://www.abeka.com/
+  https://www.abeka.com/  <br/>
   https://www.christianbook.com/page/homeschool/a-beka/a-beka-reading
   
-  Pilgrim's Progress in Today's English
+  Pilgrim's Progress in Today's English  <br/>
   https://www.christianbook.com/pilgrims-progress-in-todays-english/9780802465207/pd/ 
 
 ## Music
@@ -373,6 +375,17 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   * Exploring Creation with Zoology 3: Land Animals of the Sixth Day
 
 ### Science and Faith
+  The Case for a Creator for Kids, Updated and Expanded by Lee Strobel  <br/>
+  https://www.christianbook.com/case-creator-kids-updated-and-expanded/lee-strobel/9780310719922/pd/719922
+
+  Faith and Science with Dr. Fizzlebop: 52 Fizztastically Fun Experiments and Devotions for Families by Brock Eastman  <br/>
+  https://www.christianbook.com/science-fizzlebop-fizztastically-experiments-devotions-families/brock-eastman/9781496458162/pd/458165
+
+  How Great Is Our God: 100 Indescribable Devotions About God and Science by Louie Giglio, Tama Fortner  <br/>
+  https://www.christianbook.com/great-indescribable-devotions-about-and-science/louie-giglio/9781400215522/pd/215528
+
+  The Wonder of Creation: 100 More Devotions About God and Science by Louie Giglio  <br/>
+  https://www.christianbook.com/wonder-creation-more-devotions-about-science/louie-giglio/9781400230464/pd/230468
 
   Answers for Kids  <br/>
   http://smile.amazon.com/Answers-Kids-Box-Set-Book/dp/1683441338/
@@ -409,11 +422,11 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://www.khanacademy.org/math
 
 ### Math Competitions and Training
-  *MAA American Mathematical Competitions* <br/ >
-	https://www.maa.org/math-competitions/about-amc
+  *MAA American Mathematical Competitions* <br/>
+  https://www.maa.org/math-competitions/about-amc
 
   *Daily Challenge* with Po Shen Loh <br/>
-	https://daily.poshenloh.com/
+  https://daily.poshenloh.com/
   
   *AoPS The Art of Problem Solving* <br/>
   https://artofproblemsolving.com/
