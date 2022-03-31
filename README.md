@@ -1,9 +1,10 @@
-# Children's Ministry
+# Contents
 * [Policies and Procedures](#policies-and-procedures)
   * [Volunteer Training](#volunteer-training)
   * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
 * [Sunday School Resources](#sunday-school-resources)
   * [Bibles](#bibles)
+  * [Worship](#worship)
   * [Sunday School Curriculum](#sunday-school-curriculum)
 * [Parenting Resources](#parenting-resources)
   * [Parental Control](#parental-control)
