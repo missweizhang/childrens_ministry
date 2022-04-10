@@ -114,6 +114,9 @@ https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB
 * Praise Baby
 * Lifeway Kids
 
+Wei's YouTube channel: <br/>
+https://m.youtube.com/channel/UCxl6Ffbj3bGt-HNccaBsT7A/playlists
+
 
 ## Sunday School Curriculum
 The Gospel Project for Kids <br/>
