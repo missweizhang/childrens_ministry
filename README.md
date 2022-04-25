@@ -38,6 +38,18 @@ https://gospelcenteredfamily.com/blog/7-things-to-include-in-a-policy-checklist-
 * No photography rule
 * Volunteer screening and training
 
+*Child Protection in a Ministry Environment* Brotherhood Mutual <br/>
+https://www.brotherhoodmutual.com/resources/safety-library/publications/guidelines-for-ministry-workers/
+Contains sample screening forms and policy checklist
+
+* Implement a screening program for anyone who will work with children in your ministry.
+* Adopt a written policy for people who work with children and youth.
+* Use a system in your nursery or child care center to ensure that children are released only to the appropriate adults.
+* Be sure that all nurseries and child care rooms have windows in the doors to allow outside supervision.
+* Require at least two adults to supervise all programs involving children or youth at your organization.
+
+*2021 Top Legal Questions and Safety Library Topics* Brotherhood Mutual <br/>
+https://www.brotherhoodmutual.com/legalassist/legal-q-a/top-25-legal-questions/
 
 ## Examples
 *Sample Checklist of General Policies and Procedures by Gospel Centered Family* <br/>
