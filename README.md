@@ -446,6 +446,8 @@ I have not reviewed the resources in this section:
   https://www.khanacademy.org/math
 
 ### Math Competitions and Training
+  MOEMS, Math League, AMC, MathCounts
+  
   *MAA American Mathematical Competitions* <br/>
   https://www.maa.org/math-competitions/about-amc
 
