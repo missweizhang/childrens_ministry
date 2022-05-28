@@ -359,6 +359,9 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
 ## Music
 
+  Making Music Fun
+  https://makingmusicfun.net/
+
   Then Sings My Soul  <br/>
   https://www.christianbook.com/then-sings-my-soul-volumes-1/robert-morgan/pd/954361
 
