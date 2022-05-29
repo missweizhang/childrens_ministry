@@ -137,6 +137,9 @@ https://gospelproject.lifeway.com/
 The Gospel Project Additional Resources <br/>
 https://gospelproject.lifeway.com/category/additional-resources/
 
+The Gospel Project Volume Specific Additional Resources <br/>
+https://gospelproject.lifeway.com/preschool-kids-additional-resources-from-conquest-to-kingdom-volume-3/
+
 The Bible Made Easy For Kids by Dave Strehler <br/>
 https://www.christianbook.com/the-bible-made-easy-for-kids/dave-strehler/9781432111694/pd/11694X
 
