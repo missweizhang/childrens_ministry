@@ -5,5 +5,11 @@ https://forms.gle/HcAxk4rAWnNS791q6
 
 [Volunteer Hours](https://docs.google.com/spreadsheets/d/1_dR3uyZePTmUmSyBneHHxWT4hq-dxVxdDZ9A4XsslIU/edit?usp=sharing) <br/>
 
+[The Gospel Project (TGP) Digital Subscription](https://ministrygrid.lifeway.com/) <br/>
+https://ministrygrid.lifeway.com/
+
 [儿童事工资源](https://missweizhang.github.io/childrens_ministry) <br/>
 https://missweizhang.github.io/childrens_ministry
+
+
+
