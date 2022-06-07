@@ -129,6 +129,8 @@ https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB
 Wei's YouTube channel: <br/>
 https://m.youtube.com/channel/UCxl6Ffbj3bGt-HNccaBsT7A/playlists
 
+List of Hymns on Wei's Youtube channel: <br/>
+https://drive.google.com/drive/folders/1TTuF_vgWPtjHMJ_2xe8HXh_Jjjfo7Q8v
 
 ## Sunday School Curriculum
 The Gospel Project for Kids <br/>
