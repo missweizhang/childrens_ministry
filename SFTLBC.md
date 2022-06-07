@@ -8,7 +8,7 @@ https://forms.gle/HcAxk4rAWnNS791q6
 [The Gospel Project (TGP) Digital Subscription](https://ministrygrid.lifeway.com/) <br/>
 https://ministrygrid.lifeway.com/
 
-How to Videos: How to make PPT for TGP Sunday School
+How to Videos: How to make PPT for TGP Sunday School <br/>
 https://loom.com/share/folder/8d1cb0501a094357928441278d7bef41
 
 [儿童事工资源](https://missweizhang.github.io/childrens_ministry) <br/>
