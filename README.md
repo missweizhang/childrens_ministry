@@ -479,7 +479,7 @@ I have not reviewed the resources in this section:
    https://www.amazon.cn/dp/B08D3DGVGK
    
 ## Handwriting
-  [handwritingworksheets.com](https://www.handwritingworksheets.com/)
+  [worksheetworks.com](https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html)
    
 
 
