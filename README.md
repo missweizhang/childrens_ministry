@@ -8,6 +8,8 @@
 * [Learning Resources](#learning-resources)
   * [Reading](#reading)
   * [Music](#music)
+  * [Handwriting](#handwriting)
+  * [Technology](#technology)
   * [Science](#science)
     * [Science and Faith](#science-and-faith)
   * [Math](#math)
