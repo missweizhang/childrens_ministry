@@ -20,88 +20,6 @@
   * [Worship](#worship)
   * [Sunday School Curriculum](#sunday-school-curriculum)
 
-# Policies and Procedures
-
-(2021 Dec 21). *AB 506 Imposes New Mandatory Responsibilities on Churches* <br/>
-https://csbc.com/resource/ab506/
-
-*Background Check Process* (choose C. Youth Organization) <br/>
-https://www.cdss.ca.gov/inforesources/community-care/caregiver-background-check/background-check-process
-
-*7 Essential Policies for Children's Ministry… And a Free Checklist* <br/>
-https://gospelcenteredfamily.com/blog/7-things-to-include-in-a-policy-checklist-for-childrens-ministry
-
-* Sickness Policy
-* Food Policies & Allergy Precautions
-* Sanitation & Hygiene: clean and sanitize all toys and areas in contact with children.
-* Appropriate Supervision and Interaction: does church insurance policy require “two-unrelated-person” rule, adult-to-child ratios?
-* Check-in & check-out
-* No photography rule
-* Volunteer screening and training
-
-*Child Protection in a Ministry Environment* Brotherhood Mutual <br/>
-https://www.brotherhoodmutual.com/resources/safety-library/publications/guidelines-for-ministry-workers/
-Contains sample screening forms and policy checklist
-
-* Implement a screening program for anyone who will work with children in your ministry.
-* Adopt a written policy for people who work with children and youth.
-* Use a system in your nursery or child care center to ensure that children are released only to the appropriate adults.
-* Be sure that all nurseries and child care rooms have windows in the doors to allow outside supervision.
-* Require at least two adults to supervise all programs involving children or youth at your organization.
-
-*2021 Top Legal Questions and Safety Library Topics* Brotherhood Mutual <br/>
-https://www.brotherhoodmutual.com/legalassist/legal-q-a/top-25-legal-questions/
-
-## Examples
-*Sample Checklist of General Policies and Procedures by Gospel Centered Family* <br/>
-https://static1.squarespace.com/static/544f13f7e4b0ab8e341f28e1/t/5e4ca7a71bd2e109d6043d22/1582081964489/GCF_Policies+and+Procedures+Checklist_Rev.pdf
-
-*Sunday School Policy & Procedure (Sample)* <br/>
-https://www.freechurchforms.com/sunday-school-policy.html
-
-*Millbrae Bible Church MBCKids Safety Guidelines* <br/>
-https://www.millbraebible.org/mbckids#safety
-
-
-## Volunteer Training
-*Sojourn Kids 101 Volunteer Training videos* <br/>
-https://vimeopro.com/sojourn/sojournkids-101
-
-*Kids Ministry 101* Lifeway <br/>
-https://kidsministry.lifeway.com/
-
-*Kids Ministry Training* with Lifeway.com <br/>
-https://ministrygrid.lifeway.com/#/catalog/compilation/91334048-b719-479b-d6ac-05924568c80f
-
-* Serving in Kids Ministry
-* Kids Ministry Policies and Procedures
-* Serving at VBS and Camp
-* Evangelism and Discipleship in Kids Ministry
-* Creating a Kids Ministry Philosophy and Discipleship Framework
-* Discipleship Frameworks for Kids Ministry
-* Recruiting and Retaining Volunteers in Kids Ministry
-* Kidministration: Ten Tips for Administration in Kids Ministry
-* Six Action Steps to Conquer Administration in Kids Ministry
-
-
-## 儿童主日学登记表 
-[真光浸信会儿童主日学登记表 Google form](https://forms.gle/HcAxk4rAWnNS791q6)
-
-TODO: 
-* 表格翻译成中文
-* add waivers/medical release statement
-
-### Example of Waivers / Medical Release Statement
-source: [Prince of Peace Lutheran Church](https://princeofpeacebeulah.org/wp-content/uploads/2016/03/POP-Medical-Release-Form.pdf)
-* **Treatment consent**: By selecting this checkbox, I/we, the parent/guardians of said child(ren) give permission for my/our children to participate in Sunday School programs from September 2021 to May 2022 at ___ Church. I/we understand that in the event medical intervention is needed, every attempt will be made to contact immediately the persons listed on this form and/or the registration form. In the event I/we cannot be reached in an emergency, I/we hereby give permission to the physician or dentist selected by the activity leader to hospitalize, to secure medical treatment and/or an injection, anesthesia, or surgery to my/our child(ren) as deemed necessary.
-* **Liability consent**: I/we understand all reasonable safety precautions will be taken at all times by  ___ Church and its agents during the events and activities.  I/we understand the possibility of risk.  I/we agree not to hold  ___ Church, its leaders, employees and volunteer staff liable for damages, losses, diseases, or injuries incurred by the child(ren) on this form.
-Photo consent: I/we consent to the use of video images, photographs, audio recording, or any other visual or audio reproduction that may be taken of the child(ren) of this release during these programs to be used, distributed, or shown as  ___ Church sees fit.
-
-### Emergency Form
-source: [Millbrae Bible Church](https://docs.google.com/forms/d/e/1FAIpQLSfn4rDck5yZlY4UA24OdwQNIOE8m_zKa8FAY6MykWkoadXpHw/viewform?c=0&w=1)
-* **Permission for Emergency Medical Treatment**: In the event of an emergency, every effort will be made to contact a parent/guardian or emergency contact. If no contact can be made, I authorize Millbrae Bible Church to seek treatment for my child by a licensed physician/dentist pursuant to California Family Code Section 6910 and California Civil Code Section 25.8. I also agree to accept responsibility for the cost of above medical/dental services. I know of no reason(s) why my child may not participate in prescribed activities, except as noted on this form. If permission for emergency medical/dental treatment is not given, a signed statement providing the reason, a release of liability and alternate instructions will be provided to Millbrae Bible Church.
-* **Permission for Participation**: I hereby give my permission for my child to participate in sponsored programs, events and field trips supervised by the Millbrae Bible Church staff and volunteers. I understand that these may occur both at Millbrae Bible Church as well as other locations. I hereby release and forever discharge Millbrae Bible Church, its employees, agents and volunteers of and from any and all actions, claims and demands, whosoever which claimant now has or may hereafter have on account of or arising out of any accident, casualty and/or action which might happen while participating. I acknowledge that I am responsible for any and all medical expenses of the above noted minor while participating in all programs, events, field trips, and agree to hold Millbrae Bible Church harmless of any and all liability that may arise out of such participation.
-* **Permission to use Photographs**: I hereby consent that the videotapes, photographs, motion pictures, electronic images and/or audio recordings of my child may be used by Millbrae Bible Church for Public Relations and Publicity purposes. I understand that his/her last name and residence will not be used for publicity purposes.
 
 # Sunday School Resources
 
@@ -513,7 +431,90 @@ I have not reviewed the resources in this section:
    
 ## Handwriting
   [worksheetworks.com](https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html)
+
    
+# Policies and Procedures
+
+(2021 Dec 21). *AB 506 Imposes New Mandatory Responsibilities on Churches* <br/>
+https://csbc.com/resource/ab506/
+
+*Background Check Process* (choose C. Youth Organization) <br/>
+https://www.cdss.ca.gov/inforesources/community-care/caregiver-background-check/background-check-process
+
+*7 Essential Policies for Children's Ministry… And a Free Checklist* <br/>
+https://gospelcenteredfamily.com/blog/7-things-to-include-in-a-policy-checklist-for-childrens-ministry
+
+* Sickness Policy
+* Food Policies & Allergy Precautions
+* Sanitation & Hygiene: clean and sanitize all toys and areas in contact with children.
+* Appropriate Supervision and Interaction: does church insurance policy require “two-unrelated-person” rule, adult-to-child ratios?
+* Check-in & check-out
+* No photography rule
+* Volunteer screening and training
+
+*Child Protection in a Ministry Environment* Brotherhood Mutual <br/>
+https://www.brotherhoodmutual.com/resources/safety-library/publications/guidelines-for-ministry-workers/
+Contains sample screening forms and policy checklist
+
+* Implement a screening program for anyone who will work with children in your ministry.
+* Adopt a written policy for people who work with children and youth.
+* Use a system in your nursery or child care center to ensure that children are released only to the appropriate adults.
+* Be sure that all nurseries and child care rooms have windows in the doors to allow outside supervision.
+* Require at least two adults to supervise all programs involving children or youth at your organization.
+
+*2021 Top Legal Questions and Safety Library Topics* Brotherhood Mutual <br/>
+https://www.brotherhoodmutual.com/legalassist/legal-q-a/top-25-legal-questions/
+
+## Examples
+*Sample Checklist of General Policies and Procedures by Gospel Centered Family* <br/>
+https://static1.squarespace.com/static/544f13f7e4b0ab8e341f28e1/t/5e4ca7a71bd2e109d6043d22/1582081964489/GCF_Policies+and+Procedures+Checklist_Rev.pdf
+
+*Sunday School Policy & Procedure (Sample)* <br/>
+https://www.freechurchforms.com/sunday-school-policy.html
+
+*Millbrae Bible Church MBCKids Safety Guidelines* <br/>
+https://www.millbraebible.org/mbckids#safety
+
+
+## Volunteer Training
+*Sojourn Kids 101 Volunteer Training videos* <br/>
+https://vimeopro.com/sojourn/sojournkids-101
+
+*Kids Ministry 101* Lifeway <br/>
+https://kidsministry.lifeway.com/
+
+*Kids Ministry Training* with Lifeway.com <br/>
+https://ministrygrid.lifeway.com/#/catalog/compilation/91334048-b719-479b-d6ac-05924568c80f
+
+* Serving in Kids Ministry
+* Kids Ministry Policies and Procedures
+* Serving at VBS and Camp
+* Evangelism and Discipleship in Kids Ministry
+* Creating a Kids Ministry Philosophy and Discipleship Framework
+* Discipleship Frameworks for Kids Ministry
+* Recruiting and Retaining Volunteers in Kids Ministry
+* Kidministration: Ten Tips for Administration in Kids Ministry
+* Six Action Steps to Conquer Administration in Kids Ministry
+
+
+## 儿童主日学登记表 
+[真光浸信会儿童主日学登记表 Google form](https://forms.gle/HcAxk4rAWnNS791q6)
+
+TODO: 
+* 表格翻译成中文
+* add waivers/medical release statement
+
+### Example of Waivers / Medical Release Statement
+source: [Prince of Peace Lutheran Church](https://princeofpeacebeulah.org/wp-content/uploads/2016/03/POP-Medical-Release-Form.pdf)
+* **Treatment consent**: By selecting this checkbox, I/we, the parent/guardians of said child(ren) give permission for my/our children to participate in Sunday School programs from September 2021 to May 2022 at ___ Church. I/we understand that in the event medical intervention is needed, every attempt will be made to contact immediately the persons listed on this form and/or the registration form. In the event I/we cannot be reached in an emergency, I/we hereby give permission to the physician or dentist selected by the activity leader to hospitalize, to secure medical treatment and/or an injection, anesthesia, or surgery to my/our child(ren) as deemed necessary.
+* **Liability consent**: I/we understand all reasonable safety precautions will be taken at all times by  ___ Church and its agents during the events and activities.  I/we understand the possibility of risk.  I/we agree not to hold  ___ Church, its leaders, employees and volunteer staff liable for damages, losses, diseases, or injuries incurred by the child(ren) on this form.
+Photo consent: I/we consent to the use of video images, photographs, audio recording, or any other visual or audio reproduction that may be taken of the child(ren) of this release during these programs to be used, distributed, or shown as  ___ Church sees fit.
+
+### Emergency Form
+source: [Millbrae Bible Church](https://docs.google.com/forms/d/e/1FAIpQLSfn4rDck5yZlY4UA24OdwQNIOE8m_zKa8FAY6MykWkoadXpHw/viewform?c=0&w=1)
+* **Permission for Emergency Medical Treatment**: In the event of an emergency, every effort will be made to contact a parent/guardian or emergency contact. If no contact can be made, I authorize Millbrae Bible Church to seek treatment for my child by a licensed physician/dentist pursuant to California Family Code Section 6910 and California Civil Code Section 25.8. I also agree to accept responsibility for the cost of above medical/dental services. I know of no reason(s) why my child may not participate in prescribed activities, except as noted on this form. If permission for emergency medical/dental treatment is not given, a signed statement providing the reason, a release of liability and alternate instructions will be provided to Millbrae Bible Church.
+* **Permission for Participation**: I hereby give my permission for my child to participate in sponsored programs, events and field trips supervised by the Millbrae Bible Church staff and volunteers. I understand that these may occur both at Millbrae Bible Church as well as other locations. I hereby release and forever discharge Millbrae Bible Church, its employees, agents and volunteers of and from any and all actions, claims and demands, whosoever which claimant now has or may hereafter have on account of or arising out of any accident, casualty and/or action which might happen while participating. I acknowledge that I am responsible for any and all medical expenses of the above noted minor while participating in all programs, events, field trips, and agree to hold Millbrae Bible Church harmless of any and all liability that may arise out of such participation.
+* **Permission to use Photographs**: I hereby consent that the videotapes, photographs, motion pictures, electronic images and/or audio recordings of my child may be used by Millbrae Bible Church for Public Relations and Publicity purposes. I understand that his/her last name and residence will not be used for publicity purposes.
 
 
 
