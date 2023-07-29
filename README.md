@@ -1,11 +1,5 @@
 # 儿童事工资源
-* [Policies and Procedures](#policies-and-procedures)
-  * [Volunteer Training](#volunteer-training)
-  * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
-* [Sunday School Resources](#sunday-school-resources)
-  * [Bibles](#bibles)
-  * [Worship](#worship)
-  * [Sunday School Curriculum](#sunday-school-curriculum)
+
 * [Parenting Resources](#parenting-resources)
   * [Parental Control](#parental-control)
 * [Books and Bookstores](#childrens-books-and-bookstores)
@@ -18,6 +12,13 @@
     * [Science and Faith](#science-and-faith)
   * [Math](#math)
   * [History](#history)
+* [Policies and Procedures](#policies-and-procedures)
+  * [Volunteer Training](#volunteer-training)
+  * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
+* [Sunday School Resources](#sunday-school-resources)
+  * [Bibles](#bibles)
+  * [Worship](#worship)
+  * [Sunday School Curriculum](#sunday-school-curriculum)
 
 # Policies and Procedures
 
@@ -243,6 +244,9 @@ https://www.christianbook.com/Christian/Books/easy_find?Ntt=excellent+wife
   Youtube Restricted Mode 受限模式 <br/>
   https://support.google.com/youtube/answer/174084 <br/>
   https://support.google.com/youtube/answer/174084?hl=zh-Hans
+
+  Bark app <br/>
+  https://www.bark.us/
   
 ### Android  
   Family Link <br/>
@@ -346,6 +350,32 @@ https://www.twgbr.org.tw/
 
 # Learning Resources
 
+## Bible
+
+  *我爱耶稣中文学校教材* <br/>
+  https://www.lgccc.org/?page_id=146
+
+  *Bible Verse Coloring Page* <br/>
+  https://www.supercoloring.com/coloring-pages/christianity-bible/bible-verse
+
+## Chinese
+
+  *WrittenChinese Dictionary* 含笔顺动画 <br/>
+  https://dictionary.writtenchinese.com/
+	
+  *Skritter app* 练习写字 <br/>
+  https://skritter.com/demo
+  
+  *田字格生成器* <br/>
+  https://www.an2.net/zi/
+  
+  *千千秀字: 汉字拼音在线转换* <br/>
+  https://www.qqxiuzi.cn/zh/pinyin/
+
+  * Ricciwawa - 拼音汉字图文编辑
+  https://story.ricciwawa.com/
+
+
 ## Homeschool
 (2021 May 14). *在家教育常用教材和网站*  by 鄭立新牧師 Pastor Lenny Cheng  <br/>
 https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%E7%94%A8%E6%95%99%E6%9D%90%E5%92%8C%E7%BD%91%E7%AB%99/
@@ -364,27 +394,30 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
 ## Music
 
-  Making Music Fun
+  *Making Music Fun* <br/>
   https://makingmusicfun.net/
 
-  Then Sings My Soul  <br/>
+  *Then Sings My Soul*  <br/>
   https://www.christianbook.com/then-sings-my-soul-volumes-1/robert-morgan/pd/954361
 
-## Chinese
+## Technology
 
-  *WrittenChinese Dictionary* 含笔顺动画 <br/>
-  https://dictionary.writtenchinese.com/
-	
-  *Skritter app* 练习写字 <br/>
-  https://skritter.com/demo
-  
-  *田字格生成器* <br/>
-  https://www.an2.net/zi/
-  
-  *千千秀字: 汉字拼音在线转换* <br/>
-  https://www.qqxiuzi.cn/zh/pinyin/
+  *TypingClub* <br/>
+  https://www.typingclub.com/
+
+  *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
+  https://applieddigitalskills.withgoogle.com/
+
+  *Canva Education*
+  https://www.canva.com/learn/teachers/
+
+  *Digital Citizenship* <br/>
+  https://www.edclub.com/digital-citizenship/courses
 
 ## Science
+
+  *Scholastic Let's Find Out*
+  https://classroommagazines.scholastic.com/all-magazines.html
 
 ### Christian School Science Curriculum
 
