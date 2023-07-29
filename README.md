@@ -64,6 +64,12 @@ https://gospelproject.lifeway.com/preschool-kids-additional-resources-from-conqu
 The Bible Made Easy For Kids by Dave Strehler <br/>
 https://www.christianbook.com/the-bible-made-easy-for-kids/dave-strehler/9781432111694/pd/11694X
 
+*我爱耶稣中文学校教材* <br/>
+https://www.lgccc.org/?page_id=146
+
+*Bible Verse Coloring Page* <br/>
+https://www.supercoloring.com/coloring-pages/christianity-bible/bible-verse
+
 ## Church at Home
 The Gospel Project At Home <br/>
 https://ministrygrid.lifeway.com/#/catalog/compilation/5fb9683c-987e-4d4f-a3e6-a26549a0e0c7
@@ -267,14 +273,6 @@ https://amotherfarfromhome.com/best-christian-parenting-books/
 https://www.twgbr.org.tw/
 
 # Learning Resources
-
-## Bible
-
-  *我爱耶稣中文学校教材* <br/>
-  https://www.lgccc.org/?page_id=146
-
-  *Bible Verse Coloring Page* <br/>
-  https://www.supercoloring.com/coloring-pages/christianity-bible/bible-verse
 
 ## Chinese
 
