@@ -288,7 +288,7 @@ https://www.twgbr.org.tw/
   *千千秀字: 汉字拼音在线转换* <br/>
   https://www.qqxiuzi.cn/zh/pinyin/
 
-  * Ricciwawa - 拼音汉字图文编辑
+  * Ricciwawa - 拼音汉字图文编辑* <br/>
   https://story.ricciwawa.com/
 
 
@@ -313,8 +313,11 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   *Making Music Fun* <br/>
   https://makingmusicfun.net/
 
-  *Then Sings My Soul*  <br/>
+  *Then Sings My Soul* <br/>
   https://www.christianbook.com/then-sings-my-soul-volumes-1/robert-morgan/pd/954361
+
+## Handwriting
+  [Print and Cursive Handwriting](https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html)
 
 ## Technology
 
@@ -324,7 +327,13 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
   https://applieddigitalskills.withgoogle.com/
 
-  *Canva Education*
+  *AI ChatGPT course* <br/>
+  https://www.theneuron.ai/
+
+  *CS First - Scratch Programming (not recommended)* <br/>
+  https://csfirst.withgoogle.com/s/en/home
+  
+  *Canva Education* <br/>
   https://www.canva.com/learn/teachers/
 
   *Digital Citizenship* <br/>
@@ -427,9 +436,6 @@ I have not reviewed the resources in this section:
    *世界史的故事* by Susan Wise Bauer  <br/>
    https://www.amazon.cn/dp/B08D3DGVGK
    
-## Handwriting
-  [worksheetworks.com](https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html)
-
    
 # Policies and Procedures
 
