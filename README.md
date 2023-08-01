@@ -282,8 +282,7 @@ https://www.twgbr.org.tw/
 
 ## Chinese
 
-  *WrittenChinese Dictionary* 含笔顺动画 <br/>
-  https://dictionary.writtenchinese.com/
+
 	
   *Skritter app* 练习写字 <br/>
   https://skritter.com/demo
@@ -300,6 +299,19 @@ https://www.twgbr.org.tw/
   * Ricciwawa - 拼音汉字图文编辑* <br/>
   https://story.ricciwawa.com/
 
+### 字典
+
+  *WrittenChinese Dictionary* 含笔顺动画 <br/>
+  https://dictionary.writtenchinese.com/
+
+  *国语辞典 2021* <br/>
+  https://dict.revised.moe.edu.tw/index.jsp
+
+  *汉典* <br/>
+  https://www.zdic.net/
+
+  *MGBD* <br/>
+  https://www.mdbg.net/chinese/dictionary
 ## Homeschool
 (2021 May 14). *在家教育常用教材和网站*  by 鄭立新牧師 Pastor Lenny Cheng  <br/>
 https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%E7%94%A8%E6%95%99%E6%9D%90%E5%92%8C%E7%BD%91%E7%AB%99/
