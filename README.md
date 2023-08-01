@@ -1,5 +1,9 @@
 # 儿童事工资源
 
+* [Sunday School Resources](#sunday-school-resources)
+  * [Bibles](#bibles)
+  * [Worship](#worship)
+  * [Sunday School Curriculum](#sunday-school-curriculum)
 * [Parenting Resources](#parenting-resources)
   * [Parental Control](#parental-control)
 * [Books and Bookstores](#childrens-books-and-bookstores)
@@ -17,10 +21,7 @@
 * [Policies and Procedures](#policies-and-procedures)
   * [Volunteer Training](#volunteer-training)
   * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
-* [Sunday School Resources](#sunday-school-resources)
-  * [Bibles](#bibles)
-  * [Worship](#worship)
-  * [Sunday School Curriculum](#sunday-school-curriculum)
+
 
 
 # Sunday School Resources
@@ -33,11 +34,14 @@ https://www.christianbook.com/page/bibles/translations/nirv
 One Year Bible for Children NLT <br/>
 https://www.christianbook.com/nlt-one-year-bible-for-children/9780842373555/pd/73551
 
-*新普及译本 中英对照 CNLT-NLT* <br/>
-https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTBLB
+### 新普及译本
 
-*新普及译本 汉语拼音版 CNLT* <br/>
-https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB
+2012年出版，适合初中语文水平 
+([2分钟视频简介](https://www.chinesebible.org.hk/hk/marketing/showroom_cnlt.php))
+
+* [中英对照 CNLT-NLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTBLB)
+* [汉语拼音版 CNLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB)
+* [电子书](https://www.chinesebible.org.hk/hk/product_list.php?cat=EBS&subCat=EBIS)
 
 ## Worship
 * 赞美之泉
