@@ -290,13 +290,15 @@ https://www.twgbr.org.tw/
   
   *田字格生成器* <br/>
   https://www.an2.net/zi/
+
+  *汉字拼音转换 - Google Sheet Formula* <br/>
+  https://lucw.medium.com/converting-chinese-characters-to-pinyin-or-jyutping-on-google-sheets-eb12cca669cb
   
   *千千秀字: 汉字拼音在线转换* <br/>
   https://www.qqxiuzi.cn/zh/pinyin/
 
   * Ricciwawa - 拼音汉字图文编辑* <br/>
   https://story.ricciwawa.com/
-
 
 ## Homeschool
 (2021 May 14). *在家教育常用教材和网站*  by 鄭立新牧師 Pastor Lenny Cheng  <br/>
