@@ -123,7 +123,7 @@ https://www.qqxiuzi.cn/zh/pinyin/
 田字格生成器
 https://www.an2.net/zim/
 
-Canva 拼音字體 教材製作 （requires Canva for Education or Canva for Nonprofit) <br />
+Canva 拼音字體 教材製作 （requires Canva for Education/Nonprofit) <br />
 https://www.canva.com/help/upload-fonts/ <br />
 https://youtu.be/iE6Pk_zbLgs?t=375
 
@@ -134,7 +134,7 @@ https://www.17font.com/fontlist/206.html
 Ricciwawa - 拼音漢字圖文編輯
 https://ricciwawa.com/
 
-Google Sheet =PINYIN(...) Formula生字表制 <br/>
+Google Sheet =PINYIN(...) Formula 生字表制 <br/>
 https://lucw.medium.com/converting-chinese-characters-to-pinyin-or-jyutping-on-google-sheets-eb12cca669cb
 
 Quizlet - Flashcards
