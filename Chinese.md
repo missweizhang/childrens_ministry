@@ -115,10 +115,10 @@ https://www.youtube.com/@wordofgracechineseschool4670
 
 ## 閱讀
 
-陆可铎 儿童寓言故事 Max Lucado Children's Books <br/>
+陸可鐸 兒童寓言故事 Max Lucado Children's Books <br/>
 https://chalkacademy.com/max-lucado-books-kids-chinese/ <br/>
 
-[报佳音书店](https://shop42563152.m.youzan.com/wscshop/showcase/feature?alias=EsGiiXOr8I) (中国大陆)
+[報佳音書店](https://shop42563152.m.youzan.com/wscshop/showcase/feature?alias=EsGiiXOr8I) (中國大陸)
   
 智慧的話叢書 Words of Wisdom Series (set of 15 books) <br/>
 https://www.ustiendao.net/words-of-wisdom-series-gift-set-15-books-in-1-set/
@@ -130,7 +130,9 @@ https://www.ustiendao.net/12-jesus-12-miracles/
 https://www.christianbook.com/the-beginners-bible/9780310750130/pd/750136 <br/>
 https://www.ustiendao.net/timeless-childrens-stories/
 
-[儿童生命教育系列](https://book.douban.com/subject/2179758/)
+[智趣聖經點讀筆](https://posts.careerengine.us/p/58ec556fc814cc13efaa4a99)
+
+[兒童生命教育系列](https://book.douban.com/subject/2179758/)
 
 # Tools for teachers
 
