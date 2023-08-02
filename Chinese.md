@@ -4,7 +4,7 @@
 ## 圣经
 
 新普及译本： 2012年出版，适合初中语文水平
-([2分钟视频简介](https://www.chinesebible.org.hk/hk/marketing/showroom_cnlt.php))
+([2分钟简介](https://www.chinesebible.org.hk/hk/marketing/showroom_cnlt.php))
 
 * [中英对照 CNLT-NLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTBLB)
 * [汉语拼音版 CNLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB)
