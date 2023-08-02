@@ -29,7 +29,7 @@
 《我愛耶穌中文教材》
 https://drive.google.com/drive/folders/17CYXgJDqbNryPdhHJOO-uTcmufhkJAcd?usp=sharing
 
-《創世紀三字經》
+《創世記三字經》
 https://drive.google.com/drive/folders/1CICAUms6F1UcOHs2YUK6rRKC-vb6xy2d
 
 《基督教新編三字經》
