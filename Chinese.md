@@ -185,6 +185,12 @@ http://smile.amazon.com/gp/product/B07M5JBQHZ/
   https://support.google.com/youtube/answer/174084 <br/>
   https://support.google.com/youtube/answer/174084?hl=zh-Hans
 
+  Google SafeSearch <br/>
+  https://support.google.com/websearch/answer/510
+
+  Clean Browsing Content Filter <br/>
+  https://cleanbrowsing.org/
+
   Bark app <br/>
   https://www.bark.us/
   
