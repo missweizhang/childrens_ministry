@@ -147,7 +147,7 @@ https://www.17font.com/fontlist/206.html
 Ricciwawa - 拼音漢字圖文編輯
 https://ricciwawa.com/
 
-Google Sheet =PINYIN(...) Formula 生字表制 <br/>
+Google Sheet =PINYIN(...) Formula 生字表制作 <br/>
 https://lucw.medium.com/converting-chinese-characters-to-pinyin-or-jyutping-on-google-sheets-eb12cca669cb
 
 Quizlet - Flashcards
