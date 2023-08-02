@@ -116,7 +116,8 @@ https://drive.google.com/drive/folders/1TTuF_vgWPtjHMJ_2xe8HXh_Jjjfo7Q8v <br />
 https://www.overleaf.com/read/fjdjrgsxqdvj
 
 恩言中文學校
-https://www.youtube.com/@wordofgracechineseschool4670
+https://www.youtube.com/@wordofgracechineseschool4670 <br />
+https://www.wordofgraceschool.org/chinese-christian-song-on-line-practice/
 
 ## 閱讀
 
