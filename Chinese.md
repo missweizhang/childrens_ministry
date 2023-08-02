@@ -158,6 +158,9 @@ https://ricciwawa.com/
 Google Sheet =PINYIN(...) Formula 生字表制作 <br/>
 https://lucw.medium.com/converting-chinese-characters-to-pinyin-or-jyutping-on-google-sheets-eb12cca669cb
 
+Pleco 词典/生字表
+https://www.pleco.com/
+
 Quizlet - Flashcards
 https://quizlet.com/
 
