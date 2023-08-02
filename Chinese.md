@@ -4,17 +4,12 @@
   - [聖經](#聖經)
   - [聖經教材](#聖經教材)
   - [其他教材](#其他教材)
-  - [書寫](#書寫)
-  - [字典](#字典)
-  - [拼音](#拼音)
-  - [動畫](#動畫)
-  - [敬拜](#敬拜)
-  - [閱讀](#閱讀)
+  - [書寫](#書寫) / [字典](#字典) /  [拼音](#拼音)
+  - [敬拜](#敬拜) / [閱讀](#閱讀) / [動畫](#動畫)
 - [Tools for teachers](#tools-for-teachers)
 - [Tools for students](#tools-for-students)
 - [Parental Control](#parental-control)
-  - [Android](#android)
-  - [iOS](#ios)
+  - [Android](#android) / [iOS](#ios)
 
 # Resources
 
