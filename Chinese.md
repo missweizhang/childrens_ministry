@@ -10,6 +10,8 @@
 - [Tools for students](#tools-for-students)
 - [Parental Control](#parental-control)
   - [Android](#android) / [iOS](#ios)
+ 
+[Resource Comparison Table](https://docs.google.com/spreadsheets/d/1LBgnKq_z-f9x6Natue2H1qdsbsUE9Fwxq1m3PBcSwa4)
 
 # Resources
 
