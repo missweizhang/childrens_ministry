@@ -90,6 +90,9 @@ https://skritter.com/
 漢典 兒童學拼音
 https://www.zdic.net/ts/fulu/rtpy/
 
+漢語拼音歌
+https://www.wordofgraceschool.org/hanyu-pinyin-songs/
+
 藍貓小學拼音 （3小時視頻)
 https://m.bilibili.com/video/BV1kx411J7Wq
 
