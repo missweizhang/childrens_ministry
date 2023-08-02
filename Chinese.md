@@ -71,7 +71,7 @@ https://skritter.com/
 
 ## 字典
 
-  *WrittenChinese Dictionary* 含筆順動畫 <br/>
+  *WrittenChinese Dictionary* 含筆順動畫 ([Demo](https://www.loom.com/share/970e93aa93a54098881036f34a4c6a8d?sid=47f2fb2c-745e-48ec-bc44-8d362847340d))<br/>
   https://dictionary.writtenchinese.com/
 
   *國語辭典 2021* <br/>
@@ -159,13 +159,15 @@ https://lucw.medium.com/converting-chinese-characters-to-pinyin-or-jyutping-on-g
 Quizlet - Flashcards
 https://quizlet.com/
 
-Skritter for Schools
-https://skritter.com/institutions
+HanziWriter ([Demo](https://www.loom.com/share/d28db3c7a4724e2a881468b696197fc6?sid=3fbf2e5a-1d5d-4691-9533-cc382c9cda19))
+https://hanziwriter.org/demo.html
 
+Skritter for Schools (paid)
+https://skritter.com/institutions
 
 # Tools for students
 
-Skritter
+Skritter ([Demo](https://skritter.com/demo))
 https://skritter.com/
 
 WrittenChinese 字典 - 含造句，筆順
