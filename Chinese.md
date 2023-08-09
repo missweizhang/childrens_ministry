@@ -40,6 +40,8 @@ https://tbic.cc/%e8%b5%84%e6%ba%90%e4%b8%8b%e8%bd%bd/
 《聖文兒童聖經教材》
 https://hoc5.us/hoccs/bibletextbook/
 
+自制教材 - 拼音读经
+https://drive.google.com/drive/folders/1FEtoeDTZqp7sLklmNKHCar1yzpjuPaFt
 
 ## 其他教材
 
