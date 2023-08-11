@@ -121,6 +121,9 @@ https://www.overleaf.com/read/fjdjrgsxqdvj
 https://www.youtube.com/@wordofgracechineseschool4670 <br />
 https://www.wordofgraceschool.org/chinese-christian-song-on-line-practice/
 
+兒童天地詩歌集
+https://wellsofgrace.com/hymns/children/tiandi/tiandi.htm
+
 ## 閱讀
 
 陸可鐸 兒童寓言故事 Max Lucado Children's Books <br/>
