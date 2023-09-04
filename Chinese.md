@@ -157,9 +157,11 @@ Canva 拼音字體 教材製作 （requires Canva for Education/Nonprofit) <br /
 https://www.canva.com/help/upload-fonts/ <br />
 https://youtu.be/iE6Pk_zbLgs?t=375
 
-拼音字體下載
-https://www.fonts.net.cn/font-32489380389.html <br />
-https://www.17font.com/fontlist/206.html
+曉聲通ToneOZ拼音編輯器 (Demo: [繁體注音](https://youtu.be/5w1h4TxpN-8), 漢語拼音([1](https://www.loom.com/share/a1a3ff9d789b4d62935548a6fa798adc), [2](https://www.loom.com/share/a7462fb9d7694540a253f3816d7e0178))) <br />
+https://toneoz.com/ime/
+
+拼音字體下載 <br />
+https://toneoz.com/blog/download-fonts/#pinkaitc
 
 Ricciwawa - 拼音漢字圖文編輯
 https://ricciwawa.com/
@@ -181,7 +183,7 @@ https://skritter.com/institutions
 
 # Tools for students
 
-Skritter ([Demo](https://skritter.com/demo))
+Skritter ([Demo](https://skritter.com/demo)) ([Setup](https://youtu.be/6uw0jHpvpUI))
 https://skritter.com/
 
 WrittenChinese 字典 - 含造句，筆順
