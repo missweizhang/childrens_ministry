@@ -220,7 +220,7 @@ Best Christian Parenting Books <br/>
 https://amotherfarfromhome.com/best-christian-parenting-books/
 
 Newbery Medal Winners <br/>
-https://www.ala.org/alsc/sites/ala.org.alsc/files/content/awardsgrants/bookmedia/newberymedal/newbery-medals-honors-1922-present.pdf
+https://www.ala.org/ala/alsc/awardsscholarships/literaryawds/newberymedal/newberyhonors/newberymedal.htm
 
 ## Devotions
   *I Want to Be Just Like Jesus* by Stephen Elkins <br/>
