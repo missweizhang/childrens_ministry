@@ -98,6 +98,8 @@ https://www.wordofgraceschool.org/hanyu-pinyin-songs/
 藍貓小學拼音 （3小時視頻)
 https://m.bilibili.com/video/BV1kx411J7Wq
 
+TypingClub 习字丛林
+https://www.edclub.com/library/%E4%B9%A0%E5%AD%97%E4%B8%9B%E6%9E%97
 
 ## 動畫
 
