@@ -385,7 +385,7 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   *CS First - Scratch Programming (not recommended)* <br/>
   https://csfirst.withgoogle.com/s/en/home
 
-  * Tynker Game Programming (not recommended)* <br/>
+  *Tynker Game Programming (not recommended)* <br/>
   https://www.tynker.com/
 
 ### Graphic Design
