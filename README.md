@@ -360,25 +360,46 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
   *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
    Wei's Class code: xtw2h9
+   
+  *GCFGlobal Google Docs/Sheets/Drive* <br/>
+  https://edu.gcfglobal.org/en/googlespreadsheets/
 
-## [Digital Citizenship - TypingClub]()
-
-Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
-
-  *AI ChatGPT course* <br/>
-  https://www.theneuron.ai/
-
-  *CS First - Scratch Programming (not recommended)* <br/>
-  https://csfirst.withgoogle.com/s/en/home
-  
-  *Canva Education* <br/>
-  https://www.canva.com/learn/teachers/
+  *GCFGlobal Computer Basics* <br/>
+  https://edu.gcfglobal.org/en/subjects/tech/
+  https://youtube.com/playlist?list=PL4316FC411AD077AA&si=yy_rdz54ACSYSlyh
 
   *Digital Citizenship* <br/>
   https://www.edclub.com/library/digital-citizenship-5
+  Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
+
+  *Markdown (in Google Docs)* <br/>
+  https://www.markdownguide.org/cheat-sheet/
+  https://youtu.be/lr9KqDbwp78
+
+### Coding
+  
+  *CS First - Scratch Programming (not recommended)* <br/>
+  https://csfirst.withgoogle.com/s/en/home
+
+  * Tynker Game Programming (not recommended)* <br/>
+  https://www.tynker.com/
+
+### Graphic Design
+  *Canva Education* <br/>
+  https://www.canva.com/learn/teachers/
+
+  *Figma Education* <br/>
+  https://www.figma.com/education/
+  
+### Artificial Intelligence
+  *AI ChatGPT course* <br/>
+  https://www.theneuron.ai/
+
+### Not yet reviewed
+  *Khanmigo: AI tutor* <br/>
+  https://www.khanacademy.org/khan-labs
 
 ## Science
-
   *Scholastic Let's Find Out*
   https://classroommagazines.scholastic.com/all-magazines.html
 
@@ -400,8 +421,7 @@ Topics: online safety, understanding how computers work, and creating documents,
   * Exploring Creation with Zoology 2: Swimming Creatures of the Fifth Day
   * Exploring Creation with Zoology 3: Land Animals of the Sixth Day
 
-### Science and Faith
-I have not reviewed the resources in this section:
+### Science and Faith (not yet reviewed)
 
   The Case for a Creator for Kids, Updated and Expanded by Lee Strobel  <br/>
   https://www.christianbook.com/case-creator-kids-updated-and-expanded/lee-strobel/9780310719922/pd/719922
