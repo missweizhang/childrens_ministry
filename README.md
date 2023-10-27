@@ -175,7 +175,16 @@ https://www.christianbook.com/Christian/Books/easy_find?Ntt=excellent+wife
   https://support.google.com/youtube/answer/174084 <br/>
   https://support.google.com/youtube/answer/174084?hl=zh-Hans
 
-  Bark app <br/>
+  Google SafeSearch <br/>
+  https://support.google.com/websearch/answer/510
+
+  uBlock Origin - browser ad blocker<br/>
+  https://ublockorigin.com/
+
+  Clean Browsing Content Filter <br/>
+  https://cleanbrowsing.org/
+
+  Bark app 需付费 <br/>
   https://www.bark.us/
   
 ### Android  
@@ -300,6 +309,9 @@ https://www.twgbr.org.tw/
   * Ricciwawa - 拼音汉字图文编辑* <br/>
   https://story.ricciwawa.com/
 
+  * More Chinese Resources <br/>
+  https://missweizhang.github.io/childrens_ministry/Chinese
+
 ### 字典
 
   *WrittenChinese Dictionary* 含笔顺动画 <br/>
@@ -347,7 +359,11 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://www.typingclub.com/
 
   *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
-  https://applieddigitalskills.withgoogle.com/
+   Wei's Class code: xtw2h9
+
+## [Digital Citizenship - TypingClub]()
+
+Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
 
   *AI ChatGPT course* <br/>
   https://www.theneuron.ai/
@@ -359,7 +375,7 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://www.canva.com/learn/teachers/
 
   *Digital Citizenship* <br/>
-  https://www.edclub.com/digital-citizenship/courses
+  https://www.edclub.com/library/digital-citizenship-5
 
 ## Science
 
