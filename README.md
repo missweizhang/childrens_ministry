@@ -355,10 +355,10 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
 ## Technology
 
-  *TypingClub* <br/>
+  *TypingClub (recommended)* <br/>
   https://www.typingclub.com/
 
-  *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
+  *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail (recommended)* <br/>
    Wei's Class code: xtw2h9
    
   *GCFGlobal Google Docs/Sheets/Drive* <br/>
@@ -368,15 +368,15 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://edu.gcfglobal.org/en/subjects/tech/
   https://youtube.com/playlist?list=PL4316FC411AD077AA&si=yy_rdz54ACSYSlyh
 
-  *Digital Citizenship* <br/>
+  *Digital Citizenship (recommended)* <br/>
   https://www.edclub.com/library/digital-citizenship-5
   Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
 
-  *Markdown (in Google Docs)* <br/>
-  https://www.markdownguide.org/cheat-sheet/
-  https://youtu.be/lr9KqDbwp78
+  *Markdown (simple markup language in Google Docs - highly recommended)* <br/>
+  https://www.markdownguide.org/cheat-sheet/ <br/>
+  https://youtu.be/lr9KqDbwp78 (4 min)
 
-  *Geogebra - math and geometry* <br/>
+  *Geogebra - math and geometry (recommended)* <br/>
   https://www.geogebra.org/
 
 ### Coding
