@@ -382,14 +382,14 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
   https://youtube.com/playlist?list=PL4316FC411AD077AA&si=yy_rdz54ACSYSlyh
 
   *Digital Citizenship (recommended)* <br/>
-  https://www.edclub.com/library/digital-citizenship-5
+  https://www.edclub.com/library/digital-citizenship-5 <br/>
   Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
 
   *Markdown (simple markup language in Google Docs - highly recommended)* <br/>
   https://www.markdownguide.org/cheat-sheet/ <br/>
   https://youtu.be/lr9KqDbwp78 (4 min)
 
-  *Geogebra - math and geometry (recommended)* <br/>
+  *GeoGebra - math and geometry (recommended)* <br/>
   https://www.geogebra.org/
 
 ### Coding
