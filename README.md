@@ -10,14 +10,16 @@
   * [Bible Stories](#bible-stories)
   * [Bookstores](#bookstores)
 * [Learning Resources](#learning-resources)
+  * [Curriculums](#christian-curriculums) 
+  * [Chinese](#chinese) 
   * [Reading](#reading)
   * [Music](#music)
-  * [Handwriting](#handwriting)
   * [Technology](#technology)
+  * [Math](#math)
   * [Science](#science)
     * [Science and Faith](#science-and-faith)
-  * [Math](#math)
   * [History](#history)
+  * [Handwriting](#handwriting)
 * [Policies and Procedures](#policies-and-procedures)
   * [Volunteer Training](#volunteer-training)
   * [儿童主日学登记表](#%E5%84%BF%E7%AB%A5%E4%B8%BB%E6%97%A5%E5%AD%A6%E7%99%BB%E8%AE%B0%E8%A1%A8)
@@ -291,6 +293,19 @@ https://www.ala.org/ala/alsc/awardsscholarships/literaryawds/newberymedal/newber
 https://www.twgbr.org.tw/
 
 # Learning Resources
+  
+## Homeschool
+(2021 May 14). *在家教育常用教材和网站*  by 鄭立新牧師 Pastor Lenny Cheng  <br/>
+https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%E7%94%A8%E6%95%99%E6%9D%90%E5%92%8C%E7%BD%91%E7%AB%99/
+
+## Christian Curriculums
+https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat=Homeschool|Curriculum-Index
+
+  * Abeka
+  * BJU Press
+  * [Purposeful Design](https://your.acsi.org/pdp-store) 
+  * ACE
+  * Apologia
 
 ## Chinese
 
@@ -306,10 +321,10 @@ https://www.twgbr.org.tw/
   *千千秀字: 汉字拼音在线转换* <br/>
   https://www.qqxiuzi.cn/zh/pinyin/
 
-  * Ricciwawa - 拼音汉字图文编辑* <br/>
+  *Ricciwawa - 拼音汉字图文编辑* <br/>
   https://story.ricciwawa.com/
 
-  * More Chinese Resources <br/>
+  *More Chinese Resources <br/>
   https://missweizhang.github.io/childrens_ministry/Chinese
 
 ### 字典
@@ -325,10 +340,6 @@ https://www.twgbr.org.tw/
 
   *MGBD* <br/>
   https://www.mdbg.net/chinese/dictionary
-  
-## Homeschool
-(2021 May 14). *在家教育常用教材和网站*  by 鄭立新牧師 Pastor Lenny Cheng  <br/>
-https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%E7%94%A8%E6%95%99%E6%9D%90%E5%92%8C%E7%BD%91%E7%AB%99/
 
 ## Reading
 
@@ -597,13 +608,6 @@ source: [Millbrae Bible Church](https://docs.google.com/forms/d/e/1FAIpQLSfn4rDc
 * **Permission for Emergency Medical Treatment**: In the event of an emergency, every effort will be made to contact a parent/guardian or emergency contact. If no contact can be made, I authorize Millbrae Bible Church to seek treatment for my child by a licensed physician/dentist pursuant to California Family Code Section 6910 and California Civil Code Section 25.8. I also agree to accept responsibility for the cost of above medical/dental services. I know of no reason(s) why my child may not participate in prescribed activities, except as noted on this form. If permission for emergency medical/dental treatment is not given, a signed statement providing the reason, a release of liability and alternate instructions will be provided to Millbrae Bible Church.
 * **Permission for Participation**: I hereby give my permission for my child to participate in sponsored programs, events and field trips supervised by the Millbrae Bible Church staff and volunteers. I understand that these may occur both at Millbrae Bible Church as well as other locations. I hereby release and forever discharge Millbrae Bible Church, its employees, agents and volunteers of and from any and all actions, claims and demands, whosoever which claimant now has or may hereafter have on account of or arising out of any accident, casualty and/or action which might happen while participating. I acknowledge that I am responsible for any and all medical expenses of the above noted minor while participating in all programs, events, field trips, and agree to hold Millbrae Bible Church harmless of any and all liability that may arise out of such participation.
 * **Permission to use Photographs**: I hereby consent that the videotapes, photographs, motion pictures, electronic images and/or audio recordings of my child may be used by Millbrae Bible Church for Public Relations and Publicity purposes. I understand that his/her last name and residence will not be used for publicity purposes.
-
-
-
-
-	
-
-
 
 
 
