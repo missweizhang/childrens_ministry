@@ -376,6 +376,9 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://www.markdownguide.org/cheat-sheet/
   https://youtu.be/lr9KqDbwp78
 
+  *Geogebra - math and geometry* <br/>
+  https://www.geogebra.org/
+
 ### Coding
   
   *CS First - Scratch Programming (not recommended)* <br/>
@@ -390,6 +393,12 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 
   *Figma Education* <br/>
   https://www.figma.com/education/
+
+  *Inkscape* <br/>
+  https://inkscape.org/
+
+  *Excalidraw* <br/>
+  https://excalidraw.com/
   
 ### Artificial Intelligence
   *AI ChatGPT course* <br/>
@@ -463,11 +472,21 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   http://smile.amazon.com/Lie-Evolution-Revised-Expanded-ebook/dp/B009L9F42U
 
 ## Math
+  *Khan Academy - videos* <br/>
+  https://www.khanacademy.org/math
+
+  *CueMath - visual math learning* <br/>
+  https://www.cuemath.com/
+
   *Expii* FREE lessons in math, biology etc. <br/>
   https://www.expii.com/
 
-  Khan Academy <br/>
-  https://www.khanacademy.org/math
+### Math Tools
+  *GeoGebra - Geometry, Graphing Calculator* <br/>
+  https://www.geogebra.org/
+
+  *Wolfram Mathworld - Reference* <br/>
+  https://mathworld.wolfram.com/
 
 ### Math Competitions and Training
   MOEMS, Math League, AMC, MathCounts
