@@ -359,7 +359,8 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   https://www.typingclub.com/
 
   *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail (recommended)* <br/>
-   Wei's Class code: xtw2h9
+  https://applieddigitalskills.withgoogle.com/ <br/>
+  Wei's Class code: xtw2h9
    
   *GCFGlobal Google Docs/Sheets/Drive* <br/>
   https://edu.gcfglobal.org/en/googlespreadsheets/
