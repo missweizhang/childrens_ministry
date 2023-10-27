@@ -408,6 +408,41 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   *Khanmigo: AI tutor* <br/>
   https://www.khanacademy.org/khan-labs
 
+## Math
+  *Khan Academy - videos* <br/>
+  https://www.khanacademy.org/math
+
+  *CueMath - visual math learning* <br/>
+  https://www.cuemath.com/
+
+  *Expii* FREE lessons in math, biology etc. <br/>
+  https://www.expii.com/
+
+### Math Tools
+  *GeoGebra - Geometry, Graphing Calculator* <br/>
+  https://www.geogebra.org/
+
+  *Wolfram Mathworld - Reference* <br/>
+  https://mathworld.wolfram.com/
+
+### Math Competitions and Training
+  MOEMS, Math League, AMC, MathCounts
+  
+  *MAA American Mathematical Competitions* <br/>
+  https://www.maa.org/math-competitions/about-amc
+
+  *Daily Challenge* with Po Shen Loh <br/>
+  https://daily.poshenloh.com/
+  
+  *AoPS The Art of Problem Solving* <br/>
+  https://artofproblemsolving.com/
+  
+  美国中小学数学竞赛题目及解答 <br/>
+  https://artofproblemsolving.com/wiki/index.php/AMC_Problems_and_Solutions
+
+  世界各地中小学数学竞赛题库 <br/>
+  https://artofproblemsolving.com/community/c13_contests
+  
 ## Science
   *Scholastic Let's Find Out*
   https://classroommagazines.scholastic.com/all-magazines.html
@@ -471,41 +506,6 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
   The Lie: Evolution  <br/>
   http://smile.amazon.com/Lie-Evolution-Revised-Expanded-ebook/dp/B009L9F42U
 
-## Math
-  *Khan Academy - videos* <br/>
-  https://www.khanacademy.org/math
-
-  *CueMath - visual math learning* <br/>
-  https://www.cuemath.com/
-
-  *Expii* FREE lessons in math, biology etc. <br/>
-  https://www.expii.com/
-
-### Math Tools
-  *GeoGebra - Geometry, Graphing Calculator* <br/>
-  https://www.geogebra.org/
-
-  *Wolfram Mathworld - Reference* <br/>
-  https://mathworld.wolfram.com/
-
-### Math Competitions and Training
-  MOEMS, Math League, AMC, MathCounts
-  
-  *MAA American Mathematical Competitions* <br/>
-  https://www.maa.org/math-competitions/about-amc
-
-  *Daily Challenge* with Po Shen Loh <br/>
-  https://daily.poshenloh.com/
-  
-  *AoPS The Art of Problem Solving* <br/>
-  https://artofproblemsolving.com/
-  
-  美国中小学数学竞赛题目及解答 <br/>
-  https://artofproblemsolving.com/wiki/index.php/AMC_Problems_and_Solutions
-
-  世界各地中小学数学竞赛题库 <br/>
-  https://artofproblemsolving.com/community/c13_contests
-  
 ## History
    *世界的故事 Story of the World: History for the Classical Child: Ancient Times through The Modern Age* by Susan Wise Bauer  <br/>
    http://smile.amazon.com/Story-World-Bundle-Paperback-Revised/dp/1945841702
