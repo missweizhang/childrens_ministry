@@ -301,11 +301,12 @@ https://trumpeter.blog/2021/05/14/%E5%9C%A8%E5%AE%B6%E6%95%99%E8%82%B2%E5%B8%B8%
 ## Christian Curriculums
 https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat=Homeschool|Curriculum-Index
 
-  * Abeka
-  * BJU Press
+  * [Abeka](https://www.abeka.com/)
+  * [BJU Press](https://www.bjupress.com/)
   * [Purposeful Design](https://your.acsi.org/pdp-store) 
-  * ACE
-  * Apologia
+  * [ACE](https://www.aceschooloftomorrow.com/curriculum)
+  * [Apologia](https://www.apologia.com/)
+  * [Sonlight](https://www.sonlight.com/)
 
 ## Chinese
 
