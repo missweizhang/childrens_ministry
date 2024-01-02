@@ -367,10 +367,10 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
 
 ## Technology
 
-  *TypingClub (recommended)* <br/>
+  *TypingClub* <br/>
   https://www.typingclub.com/
 
-  *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail (recommended)* <br/>
+  *Applied Digital Skills - Google Docs/Sheets/Slides/Gmail* <br/>
   https://applieddigitalskills.withgoogle.com/ <br/>
   Wei's Class code: xtw2h9
    
@@ -381,15 +381,15 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
   https://edu.gcfglobal.org/en/subjects/tech/
   https://youtube.com/playlist?list=PL4316FC411AD077AA&si=yy_rdz54ACSYSlyh
 
-  *Digital Citizenship (recommended)* <br/>
+  *Digital Citizenship* <br/>
   https://www.edclub.com/library/digital-citizenship-5 <br/>
   Topics: online safety, understanding how computers work, and creating documents, spreadsheets, and presentations
 
-  *Markdown (simple markup language in Google Docs - highly recommended)* <br/>
+  *Markdown* <br/>
   https://www.markdownguide.org/cheat-sheet/ <br/>
   https://youtu.be/lr9KqDbwp78 (4 min)
 
-  *GeoGebra - math and geometry (recommended)* <br/>
+  *GeoGebra - math and geometry* <br/>
   https://www.geogebra.org/
 
 ### Coding
