@@ -431,6 +431,10 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
   *Expii* FREE lessons in math, biology etc. <br/>
   https://www.expii.com/
 
+  *Singapore Math* <br/>
+  https://www.singaporemath.com/pages/challenging-word-problems-samples <br/>
+  https://esingaporemath.com/
+
 ### Math Tools
   *GeoGebra - Geometry, Graphing Calculator* <br/>
   https://www.geogebra.org/
