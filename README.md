@@ -307,6 +307,7 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
   * [ACE](https://www.aceschooloftomorrow.com/curriculum)
   * [Apologia](https://www.apologia.com/)
   * [Sonlight](https://www.sonlight.com/)
+  * [My Father’s World](https://www.mfwbooks.com/)
 
 ## Chinese
 
