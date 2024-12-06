@@ -47,6 +47,7 @@ https://drive.google.com/drive/folders/1FEtoeDTZqp7sLklmNKHCar1yzpjuPaFt
 
 《暨南大學中文教材》
 http://web.hwjyw.com/textbooks/downloads/zhongwen/
+https://www.hwjyw.com/hwjc.html
 
 《暨南大學幼兒漢語》
 http://web.hwjyw.com/textbooks/downloads/youerhanyu/
