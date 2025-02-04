@@ -123,6 +123,10 @@ https://momsinprayer.org/resources/language-resources/chinese/
 http://cclw.net/coach/PrayForChild/htm/main.html <br/>
 https://www.christianbook.com/the-power-of-a-praying-parent/stormie-omartian/9780736957670/pd/957670
 
+*一生的祝福 父親為子祈禱文* 刘晓亭 牧师 著<br/>
+https://www.elimbookstore.com.tw/shop.php?html=showgoods&gid=10419
+https://youtu.be/ZFnF22ad9ZQ
+
 ## Sites
 Focus On The Family  <br/>
 https://www.youtube.com/c/focusonthefamily
