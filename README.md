@@ -165,6 +165,14 @@ https://www.christianbook.com/Christian/Books/easy_find?Ntt=bringing+up+boys
 https://baojiayin.com/product/6453/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=bringing+up+girls
 
+*青春的契机：青少年的圣经指导原则 Age of Opportunity: A Biblical Guide to Parenting Teens* by Paul David Tripp 保罗·区普 <br/>
+https://www.amazon.com/Age-Opportunity-Biblical-Guide-Parenting/dp/162995893X <br/>
+https://h.land/12345678/blog/49501 <br/>
+https://www.youtube.com/playlist?list=PLkj7Mi7dgLtyC95lyYR2uJ7AitAEQV2DE
+
+*Trusted: Preparing Your Kids for a Lifetime of God-Honoring Money Management* by Matt Bell <br/>
+https://www.amazon.com/Trusted-Preparing-Lifetime-God-Honoring-Management/dp/1646070755
+
 *敬虔的丈夫：做合他心意的带领者 The Exemplary Husband* by Stuart Scott <br/>
 https://baojiayin.com/product/6639/ <br/>
 https://www.christianbook.com/Christian/Books/easy_find?Ntt=exemplary+husband
