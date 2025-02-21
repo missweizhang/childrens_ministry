@@ -321,6 +321,15 @@ https://www.christianbook.com/page/homeschool/homeschool-curriculum-index?navcat
   * [Sonlight](https://www.sonlight.com/)
   * [My Father’s World](https://www.mfwbooks.com/)
 
+## Bible
+  *Learn Scripture* <br/>
+  https://learnscripture.net/choose/
+  
+  *Westminster Short Catechism* <br/>
+  https://learn.ligonier.org/articles/westminster-shorter-catechism <br/>
+  https://thewestminsterstandard.org/shorter-catechism-study-tools/ <br/>
+  https://learnscripture.net/catechisms/WSCME/
+
 ## Chinese
 
   *Skritter app* 练习写字 <br/>
