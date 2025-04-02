@@ -41,8 +41,8 @@ https://www.christianbook.com/nlt-one-year-bible-for-children/9780842373555/pd/7
 ### 环球圣经译本
 
 忠於原文、易讀易懂，最新现代汉语
-[简体-网络版](https://www.wwbible.org/环球圣经译本简体-2)
-[购买](https://www.ustiendao.com/bible/wcb/)
+* [简体-网络版](https://www.wwbible.org/环球圣经译本简体-2)
+* [购买](https://www.ustiendao.com/bible/wcb/)
 
 ### 新普及译本
 
@@ -59,8 +59,8 @@ https://www.christianbook.com/nlt-one-year-bible-for-children/9780842373555/pd/7
 * [YouVersion](https://www.youversion.com/the-bible-app/)
 
 ## Worship
-* 赞美之泉
-* 泥土音乐
+* 赞美之泉 - Stream of Praise
+* 泥土音乐 - 盛晓玫 Amy Sand
 * Cedarmont Kids
 * Getty Kids
 * Praise Baby
