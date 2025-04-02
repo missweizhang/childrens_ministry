@@ -36,6 +36,14 @@ https://www.christianbook.com/page/bibles/translations/nirv
 One Year Bible for Children NLT <br/>
 https://www.christianbook.com/nlt-one-year-bible-for-children/9780842373555/pd/73551
 
+提摩太后书 3:16-17 圣经都是神所默示的，于教训、督责、使人归正、教导人学义都是有益的， 17 叫属神的人得以完全，预备行各样的善事。
+
+### 环球圣经译本
+
+忠於原文、易讀易懂，最新现代汉语
+[简体-网络版](https://www.wwbible.org/环球圣经译本简体-2)
+[购买](https://www.ustiendao.com/bible/wcb/)
+
 ### 新普及译本
 
 2012年出版，适合初中语文水平 
@@ -44,6 +52,11 @@ https://www.christianbook.com/nlt-one-year-bible-for-children/9780842373555/pd/7
 * [中英对照 CNLT-NLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTBLB)
 * [汉语拼音版 CNLT](https://www.chinesebible.org.hk/us/product_list.php?cat=BIS&subCat=CNLTPYB)
 * [电子书](https://www.chinesebible.org.hk/hk/product_list.php?cat=EBS&subCat=EBIS)
+
+### 圣经 app
+
+* [微读圣经](https://wd.bible/app)
+* [YouVersion](https://www.youversion.com/the-bible-app/)
 
 ## Worship
 * 赞美之泉
